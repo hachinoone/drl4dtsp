@@ -1,5 +1,4 @@
-# drl4dtsp
-
+# Solving Dynamic Traveling Salesman Problems With Deep Reinforcement Learning
 This code solves dynamic trvaeling saleman problem with deep reinforcement learning. For more details, please see our paper [Solving Dynamic Traveling Salesman Problems With Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9537638) which has been accepted at IEEE-TNNLS. If this code is useful for your work, please cite our paper:
 
 ```
